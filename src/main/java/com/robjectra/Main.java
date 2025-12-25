@@ -10,7 +10,9 @@ import java.lang.reflect.InvocationTargetException;
 public class Main {
     public static void main(String[] args) throws IOException, ClassNotFoundException, NoSuchMethodException {
 //        Singleton.run();
-         Factory.run();
-
+//        Factory.run();
+//          Builder.run();
+//          Strategy.run();
+        Decorator.run();
     }
 }
