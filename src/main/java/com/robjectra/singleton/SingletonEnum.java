@@ -1,4 +1,4 @@
-package com.robjectra.signleton;
+package com.robjectra.singleton;
 
 import java.io.Serializable;
 

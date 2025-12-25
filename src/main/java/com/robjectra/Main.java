@@ -1,7 +1,7 @@
 package com.robjectra;
 
-import com.robjectra.signleton.SingletonClass;
-import com.robjectra.signleton.SingletonEnum;
+import com.robjectra.singleton.SingletonClass;
+import com.robjectra.singleton.SingletonEnum;
 
 import java.io.*;
 import java.lang.reflect.Constructor;
